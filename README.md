@@ -2,6 +2,8 @@
 
 ### Hi there 👋
 https://hyperskill.org/profile/191238098
+
+https://developers.google.com/profile/badges/events/io/2022/attendee
 <!--
 **chamarasab/chamarasab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
