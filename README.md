@@ -1,7 +1,9 @@
 ![](https://komarev.com/ghpvc/?username=chamarasab&color=blueviolet)
 
 ### Hi there 👋
-https://hyperskill.org/profile/191238098
+<!--https://hyperskill.org/profile/191238098-->
+
+[<img src="https://www.jetbrains.com/academy/img/logo_academy.svg" width="150"/>](https://hyperskill.org/profile/191238098) 
 ###
 
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
