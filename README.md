@@ -2,7 +2,8 @@
 
 <!--https://hyperskill.org/profile/191238098-->
 
-[<img src="https://www.jetbrains.com/academy/img/logo_academy.svg" width="200"/>](https://hyperskill.org/profile/191238098) 
+[<img src="https://www.sab.ac.lk/sites/default/files/susl-logo-new.png" width="200"/>](https://hyperskill.org/profile/191238098) 
+
 ###
 
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
