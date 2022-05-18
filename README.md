@@ -1,7 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=chamarasab&color=blueviolet)
 
 <!--https://hyperskill.org/profile/191238098-->
-
+[<img src="https://www.jetbrains.com/academy/img/logo_academy.svg" width="200"/>](https://hyperskill.org/profile/191238098)
 [<img src="https://www.sab.ac.lk/sites/default/files/susl-logo-new.png" width="200"/>](https://hyperskill.org/profile/191238098) 
 
 ###
