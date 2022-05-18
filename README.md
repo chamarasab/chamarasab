@@ -3,7 +3,7 @@
 <!--https://hyperskill.org/profile/191238098-->
 [<img src="https://www.jetbrains.com/academy/img/logo_academy.svg" height="73"/>](https://hyperskill.org/profile/191238098)
 [<img src="https://www.sab.ac.lk/sites/default/files/susl-logo-new.png" height="100" />](https://hyperskill.org/profile/191238098) 
-[<img src="[https://www.sab.ac.lk/sites/default/files/susl-logo-new.png" height="100" />](https://hyperskill.org/profile/191238098) 
+[<img src="https://www.study.sibablackboard.com/pluginfile.php/1/core_admin/logo/0x150/1643255911/siba_campus.png" height="100" />](https://hyperskill.org/profile/191238098) 
 
 ###
 
